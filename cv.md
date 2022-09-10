@@ -25,6 +25,7 @@ By the current moment I already have several completed projects. I continue my e
 
 ### Code Example:
 One of the hardests tasks from Stage0: "You have to implement a base converter, which converts positive integers between arbitrary bases / alphabets".
+
     function convert(input, source, target) {
         const reverseInput = input.split('').reverse().join('');
         let decimal = 0;
