@@ -4,8 +4,8 @@
 ### Contacts:
 * **Phone:** +7(977)178-1430;
 * **E-mail:** criphood4life@gmail.com;
-* [Telegram] (https://t.me/criphood);
-* [LinkedIn] (https://www.linkedin.com/in/criphood2304);
+* [Telegram](https://t.me/criphood);
+* [LinkedIn](https://www.linkedin.com/in/criphood2304);
 ***
 
 ### Summary:
