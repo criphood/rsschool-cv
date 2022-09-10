@@ -1,5 +1,6 @@
 # Artyom Volodin
 ## Frontend Developer
+***
 ## Contacts:
 * **Phone:** +7(977)178-1430;
 * **E-mail:** criphood4life@gmail.com;
