@@ -10,7 +10,11 @@
 
 ### Summary:
 Two years ago, I graduated from the university and got a job in a departmental organization where I work as a communications engineer.  
+  
+
 Over time I understood that this work doesn't bring me pleasure and I began to look for an occupation to my liking. I have been fascinated with programming since school and I decided to try my hand at front-end development.  
+  
+
 By the current moment I already have several completed projects. I continue my education and don't intend to stop there.
 ***
 
@@ -24,7 +28,7 @@ By the current moment I already have several completed projects. I continue my e
 ***
 
 ### Code Example:
-One of the hardests tasks from Stage0: "You have to implement a base converter, which converts positive integers between arbitrary bases / alphabets".
+One of the hardests tasks from Stage0: *"You have to implement a base converter, which converts positive integers between arbitrary bases / alphabets"*.
 
     function convert(input, source, target) {
         const reverseInput = input.split('').reverse().join('');
